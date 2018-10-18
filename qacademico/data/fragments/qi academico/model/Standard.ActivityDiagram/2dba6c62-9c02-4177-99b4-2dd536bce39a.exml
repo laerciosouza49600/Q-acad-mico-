@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Ações historico escolar" version="4">
+  <OBJECT>
+    <ID name="Ações historico escolar" mc="Standard.ActivityDiagram" uid="2dba6c62-9c02-4177-99b4-2dd536bce39a"/>
+    <PID name="Activity4" mc="Standard.Activity" uid="bd58db00-3509-4538-9b9e-e46b4d666de3"/>
+    <ATTRIBUTES>
+      <ATT name="IsVertical">false</ATT>
+      <ATT name="UiDataVersion">62</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Ações historico escolar]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="Sistema" mc="Standard.ActivityPartition" uid="461c9db9-d4a5-4f26-aecb-c3d2699085ae"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Aluno" mc="Standard.ActivityPartition" uid="fae12865-5642-4266-a44f-123978db02f7"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Initial Node" mc="Standard.InitialNode" uid="5188ebb6-d250-497c-a010-ee32f905f81c"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Exibe o menu de ações" mc="Standard.OpaqueAction" uid="730ceac6-9d75-4141-9220-c0d0af56da5e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Infrastructure.Dependency" uid="060e5a44-0bcb-48a0-986a-4f57ac437289"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Clica em verificar historico escolar" mc="Standard.OpaqueAction" uid="add5a1c3-1760-4295-a335-fdbda6c0cd50"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="2a9db115-0678-41d2-a8b3-fcaa55ce4492"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Exibe o historico escolar" mc="Standard.OpaqueAction" uid="d9ff767e-6730-4856-b31f-bcc61896015d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="455c774e-fd8a-4968-b654-0fa81353b31a"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="fd50edc6-1cde-436f-b39c-8a4e880d7925"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

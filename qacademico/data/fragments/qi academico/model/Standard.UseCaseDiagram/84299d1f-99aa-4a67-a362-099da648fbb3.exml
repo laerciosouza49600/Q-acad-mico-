@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Questionario" version="4">
+  <OBJECT>
+    <ID name="Questionario" mc="Standard.UseCaseDiagram" uid="84299d1f-99aa-4a67-a362-099da648fbb3"/>
+    <PID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">52</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Questionario]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Aluno" mc="Standard.Actor" uid="f7fc459e-76db-4188-a628-f7dbff8736f4"/>
+        <ID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+        <ID name="Responde questionario" mc="Standard.UseCase" uid="807a9d1f-c274-44f9-af78-fba82f307f87"/>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="9d8ab628-13a5-453f-ac25-c7d930912017"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="8dcdd2a7-3ae8-4e2d-93a3-4a5faaaca46c"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="08f08b21-1c16-4717-abc4-5a719b0c32b8"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

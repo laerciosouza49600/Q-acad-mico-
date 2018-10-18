@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Verificar Calendario" version="4">
+  <OBJECT>
+    <ID name="Verificar Calendario" mc="Standard.UseCaseDiagram" uid="94d5de19-5956-49c6-9b36-1ff6ffa76062"/>
+    <PID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">17</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Verificar Calendario]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+        <ID name="Aluno" mc="Standard.Actor" uid="b1645d81-972b-484f-97d1-d5be36079ada"/>
+        <ID name="Verifica o calendario Anual" mc="Standard.UseCase" uid="13f1c50c-c822-4dc6-800d-7a3146133433"/>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="b293359a-3f30-4c10-bdf2-e5d64d554039"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="9eeef8cd-eaa1-44df-84dd-a47d74bc6d1f"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="c0aabe8b-0019-4cc6-901b-9bc4816e1a04"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Matriz" version="4">
+  <OBJECT>
+    <ID name="Matriz" mc="Standard.UseCaseDiagram" uid="b614dd89-4ea3-4db7-a62d-106407db05eb"/>
+    <PID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">10</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Matriz]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+        <ID name="Aluno" mc="Standard.Actor" uid="e9cf630f-354d-4f44-84b9-2b66785d051c"/>
+        <ID name="Verifica suas matérias curriculares" mc="Standard.UseCase" uid="fe5ced2e-75c5-48d0-9465-bc6ce9d5a06c"/>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="19aae1b6-f1a2-4f19-8035-9c6651427b8f"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="cd839be7-4c4a-48aa-9066-60820f0616df"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="5ad40416-0e84-4be6-9b39-57c92add571f"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

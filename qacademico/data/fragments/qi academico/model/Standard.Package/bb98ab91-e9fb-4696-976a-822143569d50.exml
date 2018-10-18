@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Atividade" version="4">
+  <OBJECT>
+    <ID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+    <PID name="qi academico" mc="Standard.Project" uid="d8d33c80-86ea-407a-9460-2291bc7e1dba"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Atividade]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Activity" mc="Standard.Activity" uid="6dd75d5f-816b-4a89-a714-caec379e45e6"/>
+        <COMPID name="Activity1" mc="Standard.Activity" uid="ab589760-3c16-4782-904a-84c8b469c24b"/>
+        <COMPID name="Activity2" mc="Standard.Activity" uid="be59ffd6-76c3-4caf-a79e-c4d27f08e0db"/>
+        <COMPID name="Activity3" mc="Standard.Activity" uid="535ab0df-edf6-4dd3-880c-e84ad2cbbf17"/>
+        <COMPID name="Activity4" mc="Standard.Activity" uid="bd58db00-3509-4538-9b9e-e46b4d666de3"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Aluno" mc="Standard.Actor" uid="f7fc459e-76db-4188-a628-f7dbff8736f4"/>
+        <COMPID name="Responde questionario" mc="Standard.UseCase" uid="807a9d1f-c274-44f9-af78-fba82f307f87"/>
+        <COMPID name="Aluno " mc="Standard.Actor" uid="60d87b80-f534-452c-a83f-9320b8c826fa"/>
+        <COMPID name="Verifica Horario escolar" mc="Standard.UseCase" uid="86b7bc87-ea2b-4da6-bec6-4c28d22b8602"/>
+        <COMPID name="Escolher o ano do horário escolar" mc="Standard.UseCase" uid="38c2b789-a939-4fc2-98c9-3ed44465fbb2"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="b1645d81-972b-484f-97d1-d5be36079ada"/>
+        <COMPID name="Verifica o calendario Anual" mc="Standard.UseCase" uid="13f1c50c-c822-4dc6-800d-7a3146133433"/>
+        <COMPID name="Aluno " mc="Standard.Actor" uid="67c009e3-55cb-44ae-bd95-d240fc75459e"/>
+        <COMPID name="Visualiza o boletim" mc="Standard.UseCase" uid="93cdfd56-ed3a-4953-ae84-a3931e939a7e"/>
+        <COMPID name="seleciona o ano que deseja visualizar" mc="Standard.UseCase" uid="cffbf4e8-99a6-415f-ba4f-e5de0b33c9d3"/>
+        <COMPID name="Visualiza o diario escolar" mc="Standard.UseCase" uid="9ea5e53a-154d-42f2-a052-d4553e029fe1"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="54b5b08a-c571-4f48-b74d-f1c1df828218"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="14c60f77-3e98-4f14-9b78-d30703fe0c4d"/>
+        <COMPID name="Visualiza se há estágios disponiveis" mc="Standard.UseCase" uid="341aaeb4-62e8-44ac-b1b5-6793cdd3ebab"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="85a75941-5094-4dca-b453-9f01fdfe6da9"/>
+        <COMPID name="Envia mensagem" mc="Standard.UseCase" uid="74c63ed7-81f0-4e54-899c-a357bd4cef44"/>
+        <COMPID name="Visualiza mensagem" mc="Standard.UseCase" uid="fad4f160-9825-4856-b6a0-ee8b079256a7"/>
+        <COMPID name="Apaga mensagem" mc="Standard.UseCase" uid="9ef0938a-3a7b-40dd-8a94-a07520e33069"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="d44ccfa4-84b5-4c86-a5dc-575ae4e6df03"/>
+        <COMPID name="Verifica ficha escolar" mc="Standard.UseCase" uid="85e9a52d-390a-40f6-8c99-c056554a15f1"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="090c36a4-d860-43b9-baa6-0f8c8aa4acd0"/>
+        <COMPID name="Verifica seus prêmios e medidas disciplinares" mc="Standard.UseCase" uid="2a357ec5-8c12-40fb-8d2f-e85fd2cfc8b4"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="e9cf630f-354d-4f44-84b9-2b66785d051c"/>
+        <COMPID name="Verifica suas matérias curriculares" mc="Standard.UseCase" uid="fe5ced2e-75c5-48d0-9465-bc6ce9d5a06c"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="e0fcb65d-2a3d-45c1-8fb1-1ca505b42e8c"/>
+        <COMPID name="Digita seus dados presentes" mc="Standard.UseCase" uid="9bcf31a8-5822-42c6-98a0-f13564b11160"/>
+        <COMPID name="Digita os dados novos" mc="Standard.UseCase" uid="3be56031-8dfb-4053-9577-1ac5a14127aa"/>
+        <COMPID name="Gerente" mc="Standard.Actor" uid="ef8a72d8-cf1b-474e-bf28-6b6a723cb81d"/>
+        <COMPID name="Autoriza as mudanças" mc="Standard.UseCase" uid="8fad355b-fe68-440d-a440-c724c20a72f2"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="be39ea23-61ef-482a-a46c-b11f8a0c5f6c"/>
+        <COMPID name="realiza uma pergunta" mc="Standard.UseCase" uid="721082d5-057d-4066-957f-19372efe6c9a"/>
+        <COMPID name="responde uma pergunta" mc="Standard.UseCase" uid="e22f0c1e-57db-4c83-8450-5c4f1ee9456f"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="e3d7187e-2da5-435d-9351-c102c45bb661"/>
+        <COMPID name="Seleciona o ano escolar" mc="Standard.UseCase" uid="4b58457a-c22c-4181-a869-2bd63a7d34bb"/>
+        <COMPID name="Realiza o download do material" mc="Standard.UseCase" uid="0beae768-47f4-44f3-8547-1776be27c78a"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="5b5a4c22-801d-4812-becd-ddadf0e7c333"/>
+        <COMPID name="Altera a senha" mc="Standard.UseCase" uid="58985d49-3bbb-4f45-ba3b-45a370b952a3"/>
+        <COMPID name="Confirma a senha" mc="Standard.UseCase" uid="4643eadb-db8f-45b6-8a80-57885604f3fa"/>
+        <COMPID name="Digita a senha antiga" mc="Standard.UseCase" uid="53c3aa31-a73a-4bfa-ba72-9a723007ed6d"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="3b836b68-acdb-4f3e-920d-b35b50d5d9ec"/>
+        <COMPID name="Seleciona idioma disponiveis" mc="Standard.UseCase" uid="75f637ae-0291-45bf-bcd3-5ad2ff022814"/>
+        <COMPID name="Visualiza atividades academicas" mc="Standard.UseCase" uid="384af02c-284b-448d-a1cc-4d1830fc0889"/>
+        <COMPID name="Visualiza formações academicas" mc="Standard.UseCase" uid="9ee9c51d-8449-476c-9d83-3d1c3afb3c6d"/>
+        <COMPID name="Visualiza experiências profissionais" mc="Standard.UseCase" uid="b5132dd6-2991-4100-ba82-6303d24fee5f"/>
+        <COMPID name="Vizualiza curriculos extras" mc="Standard.UseCase" uid="22322f6e-0968-46e7-a05f-8bc9a278a737"/>
+        <COMPID name="Visualiza eventos que participou" mc="Standard.UseCase" uid="3d779e5b-ef1b-43e0-adc2-dbcaa248645f"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="aef68cf2-def7-45b9-a17e-a737653c351d"/>
+        <COMPID name="Seleciona ano escolar" mc="Standard.UseCase" uid="f2053168-0e86-4ef4-ae3d-efa8487bc913"/>
+        <COMPID name="Seleciona o documento anual" mc="Standard.UseCase" uid="c7a781cb-3043-4bda-9e08-62d15ac83b91"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="6b2dd902-c1d5-4dd8-8c06-f4486ee96491"/>
+        <COMPID name="Visualiza atividades pendentes" mc="Standard.UseCase" uid="7f82b834-c9a1-4a2f-b37b-7a16860fd831"/>
+        <COMPID name="Visualiza atividades analisadas" mc="Standard.UseCase" uid="77e84f97-318e-48e4-9452-61df03a958ee"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="37f12983-065d-4872-b9cf-6f06ebd2eac7"/>
+        <COMPID name="Seleciona arquivos disponiveis" mc="Standard.UseCase" uid="21a34b4d-f9b0-47e0-9688-d125839ef764"/>
+        <COMPID name="Aluno" mc="Standard.Actor" uid="51bdf1c5-cc78-4a4c-b09a-236ead8c53cb"/>
+        <COMPID name="Digita email do responsavel" mc="Standard.UseCase" uid="a540eacf-7c9a-48fd-aeeb-d7f1278eb9b9"/>
+        <COMPID name="Envia email do responsavel" mc="Standard.UseCase" uid="8439abb1-065a-427c-8925-69a955866f96"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Questionario" mc="Standard.UseCaseDiagram" uid="84299d1f-99aa-4a67-a362-099da648fbb3"/>
+        <COMPID name="Verificar Horário" mc="Standard.UseCaseDiagram" uid="b1d72faa-d344-475e-b9ba-e94c791f69a4"/>
+        <COMPID name="Verificar Calendario" mc="Standard.UseCaseDiagram" uid="94d5de19-5956-49c6-9b36-1ff6ffa76062"/>
+        <COMPID name="Verificar Boletim" mc="Standard.UseCaseDiagram" uid="c2186ce9-c940-4ec8-ae78-e73224b08254"/>
+        <COMPID name="Diario" mc="Standard.UseCaseDiagram" uid="4aca0a15-6088-4633-93a5-9e8ec4503313"/>
+        <COMPID name="Verificar estágios" mc="Standard.UseCaseDiagram" uid="362214a1-2b7c-4273-8595-2df2a7bf1d35"/>
+        <COMPID name="Mensagens" mc="Standard.UseCaseDiagram" uid="21e55d71-e6a7-4018-beaf-6b9a95f32d38"/>
+        <COMPID name="Historico Escolar" mc="Standard.UseCaseDiagram" uid="c986a282-c0a6-40d8-bd40-b49340f2ab14"/>
+        <COMPID name="Medidas disciplinares  e premiações" mc="Standard.UseCaseDiagram" uid="99124718-2bf8-46ca-9515-74734c59dc7e"/>
+        <COMPID name="Matriz" mc="Standard.UseCaseDiagram" uid="b614dd89-4ea3-4db7-a62d-106407db05eb"/>
+        <COMPID name="Alterar dados Cadastrados" mc="Standard.UseCaseDiagram" uid="583bb3f2-de51-4f71-8751-0cde6e99c31b"/>
+        <COMPID name="Faqs" mc="Standard.UseCaseDiagram" uid="63713c9c-64b9-4f25-8a7c-95557cf7669b"/>
+        <COMPID name="Material de aula" mc="Standard.UseCaseDiagram" uid="694c062f-8843-4d3f-9850-d13a6992a750"/>
+        <COMPID name="Senha" mc="Standard.UseCaseDiagram" uid="ad7deb59-8c70-4e28-8361-0a380b2f25a8"/>
+        <COMPID name="curriculo" mc="Standard.UseCaseDiagram" uid="7aaf0751-9c07-46a7-84e7-657567a134bc"/>
+        <COMPID name="Solicitar documentos" mc="Standard.UseCaseDiagram" uid="7c300a77-99b9-48ac-8c9d-abc0aa0b4dc2"/>
+        <COMPID name="Atividades complementares" mc="Standard.UseCaseDiagram" uid="33a736b6-ea87-4e65-b13d-6b0b5d10759b"/>
+        <COMPID name="Gerenciar arquivos" mc="Standard.UseCaseDiagram" uid="f42b6e78-7beb-41e2-8f4c-71c707b52c01"/>
+        <COMPID name="Senha dos responsaveis" mc="Standard.UseCaseDiagram" uid="bd40ab57-208b-4e16-a77c-cd4ccbf296f6"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

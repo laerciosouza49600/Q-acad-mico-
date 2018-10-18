@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Verificar estágios" version="4">
+  <OBJECT>
+    <ID name="Verificar estágios" mc="Standard.UseCaseDiagram" uid="362214a1-2b7c-4273-8595-2df2a7bf1d35"/>
+    <PID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">52</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Verificar estágios]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Aluno" mc="Standard.Actor" uid="14c60f77-3e98-4f14-9b78-d30703fe0c4d"/>
+        <ID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+        <ID name="Visualiza se há estágios disponiveis" mc="Standard.UseCase" uid="341aaeb4-62e8-44ac-b1b5-6793cdd3ebab"/>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="37320cb3-6b7a-4ac9-9d7d-b674003657f9"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="4f03f73e-55a8-404e-a4bf-bc5b9590c249"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="15122e79-f43c-40fd-90ed-caa9c3ab380a"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

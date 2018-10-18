@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Diario" version="4">
+  <OBJECT>
+    <ID name="Diario" mc="Standard.UseCaseDiagram" uid="4aca0a15-6088-4633-93a5-9e8ec4503313"/>
+    <PID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">81</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Diario]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+        <ID name="Visualiza o diario escolar" mc="Standard.UseCase" uid="9ea5e53a-154d-42f2-a052-d4553e029fe1"/>
+        <ID name="Aluno" mc="Standard.Actor" uid="54b5b08a-c571-4f48-b74d-f1c1df828218"/>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="848ee374-c846-49c7-9792-5927ead04710"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="95b8c21d-9029-4cda-8658-69a2e8a61869"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="58d1e054-79ac-4d5c-9732-657af204406d"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

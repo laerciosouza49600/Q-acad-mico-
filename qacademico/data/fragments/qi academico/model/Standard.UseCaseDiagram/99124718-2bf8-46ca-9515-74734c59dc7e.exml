@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Medidas disciplinares  e premiações" version="4">
+  <OBJECT>
+    <ID name="Medidas disciplinares  e premiações" mc="Standard.UseCaseDiagram" uid="99124718-2bf8-46ca-9515-74734c59dc7e"/>
+    <PID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">18</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Medidas disciplinares  e premiações]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Atividade" mc="Standard.Package" uid="bb98ab91-e9fb-4696-976a-822143569d50"/>
+        <ID name="Aluno" mc="Standard.Actor" uid="090c36a4-d860-43b9-baa6-0f8c8aa4acd0"/>
+        <ID name="Verifica seus prêmios e medidas disciplinares" mc="Standard.UseCase" uid="2a357ec5-8c12-40fb-8d2f-e85fd2cfc8b4"/>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="db97de6e-6092-4c49-932d-4471f415e13a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="cde40664-ba66-4f31-83fb-f9fbafd5a605"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="4d094a92-b59c-45f9-9e35-d1885aa72c3b"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
